@@ -29,7 +29,7 @@ function App() {
   const handleSubmit = async () => {
     try {
       const response = await axios.post(
-        "http://localhost:5000/api/applications",
+        "https://vitto-lending-system.onrender.com",
         form
       );
 
