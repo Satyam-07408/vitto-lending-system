@@ -3,7 +3,7 @@
 A full-stack lending decision platform for MSME loan approvals.
 
 ## Live Demo
-Frontend: <vitto-lending-system.vercel.app>  
+Frontend: vitto-lending-system.vercel.app
 Backend: https://vitto-lending-system.onrender.com
 
 ## Tech Stack
